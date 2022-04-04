@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "asincronismo",
+  "main": "callback.js",
+  "scripts": {
+    "callback": "node callback.js",
+    "callback:challenge": "node challenge.js",
+    "promise": "node promise.js",
+    "promise:challenge": "node challengePromise.js"
+  },
+  "keywords": [
+    "callback"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
